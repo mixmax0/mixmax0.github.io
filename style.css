@@ -1,0 +1,9 @@
+body {
+  background: #DDD;
+}
+
+canvas {
+  display: block;
+  border: 0px solid white;
+  margin: 40px auto;
+}
